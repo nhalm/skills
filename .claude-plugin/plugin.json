@@ -1,0 +1,7 @@
+{
+  "name": "nhalm",
+  "description": "Personal Claude Code skills",
+  "author": { "name": "Nick Halm" },
+  "repository": "https://github.com/nhalm/skills",
+  "license": "MIT"
+}
